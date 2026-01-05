@@ -27,19 +27,7 @@ and collaborate on impactful analytics projects.
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Technical Skills
 
-Programming & Analysis:
-• Python, SQL
-
-Data Analysis & Visualization:
-• Pandas, NumPy, Power BI, Matplotlib, Seaborn
-
-Machine Learning:
-• Scikit-learn, NLP (TF-IDF), Model Evaluation
-
-Tools:
-• Jupyter Notebook, GitHub
 
 ## 💼 Experience
 
