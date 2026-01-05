@@ -48,11 +48,12 @@ Currently, I am enhancing my skills in Machine Learning, statistics, and AI thro
 - 
 ## 🎓 Certifications
 
-Deloitte Australia – Data Analytics Job Simulation (Forage, Dec 2025) | 
-Data Science & AI Trainee – PwC Academy (upGrad, Jun 2025 – Apr 2026, Ongoing) | 
-Data Science for Python – NPTEL (Jun 2025) | 
-Python Workshop (3 Hours) – Be10x (Nov 2025) | 
-Generative AI Masterclass – Outskill (Oct 2025)
+- Deloitte Australia – Data Analytics Job Simulation (Forage, Dec 2025)
+- Data Science & AI Trainee – PwC Academy (upGrad, Jun 2025 – Apr 2026, Ongoing)
+- Data Science for Python – NPTEL (Jun 2025)
+- Python Workshop (3 Hours) – Be10x (Nov 2025)
+- Generative AI Masterclass – Outskill (Oct 2025)
+
 
 
 ## 🚀 Projects
