@@ -1,4 +1,6 @@
 # 💫 About Me:
+Data Analyst transitioning from 3D/CGI | Python • SQL • Power BI • Machine Learning | End-to-End Analytics Projects
+
 🔭 I am a Data Analyst and aspiring Data Scientist with hands-on experience in Python, SQL, Excel, Power BI, and Machine Learning. I enjoy working with data to uncover insights, build predictive models, and support data-driven decision-making.
 
 I am transitioning from a professional 3D/CGI background, which has given me a strong foundation in problem-solving, structured thinking, and data visualization. This unique combination of creativity and analytics helps me approach data problems from a different perspective.
