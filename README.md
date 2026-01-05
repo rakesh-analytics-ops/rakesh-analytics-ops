@@ -1,11 +1,19 @@
 # 💫 About Me:
-Data Analyst transitioning from 3D/CGI | Python • SQL • Power BI • Machine Learning | End-to-End Analytics Projects
+I am a Data Analyst transitioning from a professional 3D/CGI background, 
+with hands-on experience in Python, SQL, Excel, Power BI, and Machine Learning.
 
-🔭 I am a Data Analyst and aspiring Data Scientist with hands-on experience in Python, SQL, Excel, Power BI, and Machine Learning. I enjoy working with data to uncover insights, build predictive models, and support data-driven decision-making.
+My 3D/CGI experience has given me a strong foundation in problem-solving,
+structured thinking, and working with complex data pipelines.
+I now apply the same discipline to data analytics and ML projects.
 
-I am transitioning from a professional 3D/CGI background, which has given me a strong foundation in problem-solving, structured thinking, and data visualization. This unique combination of creativity and analytics helps me approach data problems from a different perspective.
+I enjoy working with real-world datasets, performing EDA, building dashboards,
+and developing predictive models that support data-driven decision-making.
 
-Currently, I am enhancing my skills in Machine Learning, statistics, and AI through real-world projects and my Data Science & AI program at upGrad. I am actively looking to collaborate on analytics and ML projects and grow as a data professional.
+Currently, I am enhancing my skills in Machine Learning, statistics, and AI
+through real-world projects and my Data Science & AI program at upGrad.
+I am actively looking for opportunities to grow as a Data Analyst
+and collaborate on impactful analytics projects.
+
  <br>
 
 
