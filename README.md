@@ -98,6 +98,7 @@ I enjoy working with real datasets, building dashboards, performing EDA, and dep
 
 **Tech Stack:** SQL, Python, Pandas  
 **Repository:** https://github.com/rakesh-analytics-ops/imdb-sql-analysis
+** gdrive- https://drive.google.com/file/d/1ivXJ8AkNGZwgFkcHQth_2gxQqrnZ0T0u/view?usp=sharing
 ---
 ### Loan Default Risk Analysis (EDA)
 - Conducted exploratory data analysis on loan datasets to identify default risk patterns.  
