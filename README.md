@@ -81,6 +81,23 @@ I enjoy working with real datasets, building dashboards, performing EDA, and dep
 **Tech Stack:** Python, SQL, Machine Learning  
 
 ---
+### IMDb Movie Analytics (SQL + Python)
+
+- Analyzed an IMDb-style movie dataset to identify trends across genres, ratings, directors, and audience votes.
+- Wrote structured SQL queries for filtering, aggregation, and analytical questioning.
+- Explored rating distributions, genre-wise performance, and the relationship between ratings and vote counts.
+- Focused on analytical thinking and interpretation rather than only writing queries.
+
+**Key Insights:**
+- Certain genres consistently receive higher average ratings.
+- Movies with higher vote counts show more stable rating patterns.
+- Some directors demonstrate strong rating consistency across movies.
+
+**Outcome:**
+- Improved understanding of how data-driven insights can support content strategy and audience analysis in media platforms.
+
+**Tech Stack:** SQL, Python, Pandas  
+**Repository:** https://github.com/rakesh-analytics-ops/imdb-sql-analysis
 
 ### Loan Default Risk Analysis (EDA)
 - Conducted exploratory data analysis on loan datasets to identify default risk patterns.  
