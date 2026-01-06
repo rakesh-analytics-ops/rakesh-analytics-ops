@@ -75,6 +75,7 @@ and collaborate on impactful analytics projects.
 - Analyzed restaurant data to identify trends in ratings, pricing, and customer preferences.  
 - Performed EDA, data cleaning, and visualization to extract actionable insights.  
 - https://huggingface.co/spaces/rakeshmahakur555/zomato-rating-predictor
+  
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
 
 ---
@@ -84,7 +85,7 @@ and collaborate on impactful analytics projects.
 - Built regression-based models to predict render time using historical data.  
 - Combined analytics with domain expertise from 3D production pipelines.
 - https://huggingface.co/spaces/rakeshmahakur555/3d-production-analytics
-- 
+  
 **Tech Stack:** Python, SQL, Machine Learning  
 
 ---
