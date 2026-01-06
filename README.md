@@ -83,7 +83,8 @@ and collaborate on impactful analytics projects.
 - Analyzed CG render data to identify key factors affecting render duration.  
 - Built regression-based models to predict render time using historical data.  
 - Combined analytics with domain expertise from 3D production pipelines.
-
+- https://huggingface.co/spaces/rakeshmahakur555/3d-production-analytics
+- 
 **Tech Stack:** Python, SQL, Machine Learning  
 
 ---
