@@ -74,7 +74,7 @@ and collaborate on impactful analytics projects.
 ### Zomato Restaurant Data Analysis
 - Analyzed restaurant data to identify trends in ratings, pricing, and customer preferences.  
 - Performed EDA, data cleaning, and visualization to extract actionable insights.  
-
+- https://huggingface.co/spaces/rakeshmahakur555/zomato-rating-predictor
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
 
 ---
