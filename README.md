@@ -50,7 +50,26 @@ I enjoy working with real datasets, building dashboards, performing EDA, and dep
 **Jan 2022 – Dec 2024 | Chandigarh, India**  
 - Created multiple 3D assets for product and visualization pipelines.  
 - Improved efficiency through structured workflows and asset optimization.
-- 
+
+---
+
+## 3D Artist | Wipro 3D
+**Jun 2021 – Dec 2021 | Bengaluru, India**
+- Created high-quality 3D product assets using Autodesk 3ds Max and Substance Painter.
+- Ensured texture accuracy, visual consistency, and adherence to production standards.
+- Collaborated with cross-functional teams to meet quality and delivery timelines.
+
+---
+
+## Junior 3D Modeling Artist | 3D Usher
+**Sep 2019 – May 2021 | Hyderabad, India**
+- Developed 3D models and textures for visualization and branding projects.
+- Converted client requirements into optimized production-ready assets.
+- Maintained quality control and asset consistency across multiple projects.
+
+
+ 
+  
 ## 🎓 Certifications
 
 - Deloitte Australia – Data Analytics Job Simulation (Forage, Dec 2025)
