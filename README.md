@@ -23,50 +23,42 @@ I enjoy working with real datasets, building dashboards, performing EDA, and dep
 
 ## 💼 Experience
 
-### Data Science & AI Intern | Labmentix  
-**Jan 2026 – Present | Bengaluru, India**  
-- Working on data analysis using Python and SQL, including data cleaning and exploratory data analysis (EDA).  
-- Assisting in building basic machine learning models on real-world datasets.  
-- Creating visual insights and reports using Power BI for business understanding.  
-- Learning applied AI and ML concepts through hands-on tasks and projects.
+## Data Analyst (Part-time)
+LabMentix — Bengaluru, India | Nov 2025 – Present
 
----
+Created Power BI dashboards that helped teams understand performance and make informed decisions.
 
-### 3D Artist | Upwork  
-**May 2025 – Jan 2026 | Bengaluru, India**  
-- Delivered client-based 3D visualization projects with a focus on accuracy and deadlines.  
-- Collaborated with clients to translate requirements into high-quality visual outputs.
+Cleaned and organized datasets using Python and SQL to ensure reliable analysis.
 
----
+Supported MIS and ad-hoc reporting to improve reporting efficiency.
 
-### 3D CGI Artist | Tulfa  
-**Jan 2025 – Jun 2025 | Hyderabad, India**  
-- Worked on product visualization and CGI assets for commercial projects.  
-- Maintained quality standards and optimized asset workflows.
+Worked with stakeholders to understand requirements and deliver meaningful insights.
 
----
+Analyzed data trends to support everyday business decisions.
 
-### 3D Artist | SuperDNA Technolab Pvt. Ltd.  
-**Jan 2022 – Dec 2024 | Chandigarh, India**  
-- Created multiple 3D assets for product and visualization pipelines.  
-- Improved efficiency through structured workflows and asset optimization.
+## Data Analysis Intern (Project-Based)
+Codveda Technologies & Future Interns — Bengaluru, India | Dec 2024 – Jan 2026
 
----
+Explored real-world datasets to identify useful patterns and insights.
 
-## 3D Artist | Wipro 3D
-**Jun 2021 – Dec 2021 | Bengaluru, India**
-- Created high-quality 3D product assets using Autodesk 3ds Max and Substance Painter.
-- Ensured texture accuracy, visual consistency, and adherence to production standards.
-- Collaborated with cross-functional teams to meet quality and delivery timelines.
+Assisted with data cleaning and preparation for analysis and reporting.
 
----
+Created simple visual summaries to communicate findings clearly.
 
-## Junior 3D Modeling Artist | 3D Usher
-**Sep 2019 – May 2021 | Hyderabad, India**
-- Developed 3D models and textures for visualization and branding projects.
-- Converted client requirements into optimized production-ready assets.
-- Maintained quality control and asset consistency across multiple projects.
+Collaborated with team members to support project deliverables.
 
+## Wipro 3D | Tulfa | SuperDNA Technolab Pvt. Ltd.
+3D Production Specialist (Full-time) | Sep 2019 – May 2025
+
+Delivered production-ready 3D assets for global clients while maintaining high quality standards.
+
+Improved workflow efficiency, helping reduce rework and speed up delivery.
+
+Ensured visual consistency and accuracy across multiple projects.
+
+Worked closely with teams to meet deadlines and client expectations.
+
+Translated creative requirements into polished final outputs.
 
  
   
