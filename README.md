@@ -24,7 +24,7 @@ I enjoy working with real datasets, building dashboards, performing EDA, and dep
 ## 💼 Experience
 
 ## Data Analyst (Part-time)
-LabMentix — Bengaluru, India | Nov 2025 – Present
+## LabMentix — Bengaluru, India | Nov 2025 – Present
 
 Created Power BI dashboards that helped teams understand performance and make informed decisions.
 
@@ -37,7 +37,7 @@ Worked with stakeholders to understand requirements and deliver meaningful insig
 Analyzed data trends to support everyday business decisions.
 
 ## Data Analysis Intern (Project-Based)
-Codveda Technologies & Future Interns — Bengaluru, India | Dec 2024 – Jan 2026
+## Codveda Technologies & Future Interns — Bengaluru, India | Dec 2024 – Jan 2026
 
 Explored real-world datasets to identify useful patterns and insights.
 
