@@ -75,7 +75,7 @@ Translated creative requirements into polished final outputs.
 
 ## 🚀 Projects
 
-Retail Analytics Dashboard (Power BI) | Jan 2026 – Feb 2026
+## Retail Analytics Dashboard (Power BI) | Jan 2026 – Feb 2026
 
 Built an executive KPI dashboard to monitor sales performance and business metrics.
 
@@ -85,7 +85,7 @@ Focused on business-ready presentation of insights.
 
 Tech Stack: Power BI
 
-Netflix Dashboard (Power BI)
+## Netflix Dashboard (Power BI)
 
 Created a KPI-focused dashboard to analyze content and engagement trends.
 
@@ -93,7 +93,7 @@ Structured visuals to simplify reporting and storytelling.
 
 Tech Stack: Power BI
 
-Blinkit Sales & Outlet Performance Dashboard (Power BI) | Jan 2026
+## Blinkit Sales & Outlet Performance Dashboard (Power BI) | Jan 2026
 
 Developed an executive dashboard analyzing sales, outlet performance, and product drivers.
 
@@ -103,7 +103,7 @@ Designed for business-ready MIS reporting.
 
 Tech Stack: Power BI
 
-Zomato Restaurant Data Analysis
+## Zomato Restaurant Data Analysis
 
 Analyzed restaurant datasets to identify trends in ratings, pricing, and customer preferences.
 
@@ -114,7 +114,7 @@ Built an interactive demo for practical analytics showcase.
 Tech Stack: Python, Pandas, Matplotlib, Seaborn
 Demo: huggingface.co/spaces/rakeshmahakur555/zomato-rating-predictor
 
-Render Time Prediction for CG Pipeline
+## Render Time Prediction for CG Pipeline
 
 Analyzed rendering datasets to identify factors affecting processing duration.
 
@@ -125,7 +125,7 @@ Combined analytics with domain knowledge from 3D production workflows.
 Tech Stack: Python, SQL, Machine Learning
 Demo: huggingface.co/spaces/rakeshmahakur555/3d-production-analytics
 
-IMDb Movie Analytics (SQL + Python)
+## IMDb Movie Analytics (SQL + Python)
 
 Explored movie datasets to analyze genre trends, ratings, and audience behavior.
 
