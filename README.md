@@ -75,46 +75,65 @@ Translated creative requirements into polished final outputs.
 
 ## 🚀 Projects
 
-### Zomato Restaurant Data Analysis
-- Analyzed restaurant data to identify trends in ratings, pricing, and customer preferences.  
-- Performed EDA, data cleaning, and visualization to extract actionable insights.  
-- https://huggingface.co/spaces/rakeshmahakur555/zomato-rating-predictor
-  
-**Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
+Retail Analytics Dashboard (Power BI) | Jan 2026 – Feb 2026
 
----
+Built an executive KPI dashboard to monitor sales performance and business metrics.
 
-### Render Time Prediction for CG Pipeline
-- Analyzed CG render data to identify key factors affecting render duration.  
-- Built regression-based models to predict render time using historical data.  
-- Combined analytics with domain expertise from 3D production pipelines.
-- https://huggingface.co/spaces/rakeshmahakur555/3d-production-analytics
-  
-**Tech Stack:** Python, SQL, Machine Learning  
+Designed interactive visuals for quick decision-making and reporting clarity.
 
----
-### IMDb Movie Analytics (SQL + Python)
+Focused on business-ready presentation of insights.
 
-- Analyzed an IMDb-style movie dataset to identify trends across genres, ratings, directors, and audience votes.
-- Wrote structured SQL queries for filtering, aggregation, and analytical questioning.
-- Explored rating distributions, genre-wise performance, and the relationship between ratings and vote counts.
-- Focused on analytical thinking and interpretation rather than only writing queries.
+Tech Stack: Power BI
 
-**Key Insights:**
-- Certain genres consistently receive higher average ratings.
-- Movies with higher vote counts show more stable rating patterns.
-- Some directors demonstrate strong rating consistency across movies.
+Netflix Dashboard (Power BI)
 
-**Outcome:**
-- Improved understanding of how data-driven insights can support content strategy and audience analysis in media platforms.
+Created a KPI-focused dashboard to analyze content and engagement trends.
 
-**Tech Stack:** SQL, Python, Pandas  
-**Repository:** https://github.com/rakesh-analytics-ops/imdb-sql-analysis
-** gdrive- https://drive.google.com/file/d/1ivXJ8AkNGZwgFkcHQth_2gxQqrnZ0T0u/view?usp=sharing
----
-### Loan Default Risk Analysis (EDA)
-- Conducted exploratory data analysis on loan datasets to identify default risk patterns.  
-- Performed univariate, bivariate, and correlation analysis to support risk assessment.
+Structured visuals to simplify reporting and storytelling.
+
+Tech Stack: Power BI
+
+Blinkit Sales & Outlet Performance Dashboard (Power BI) | Jan 2026
+
+Developed an executive dashboard analyzing sales, outlet performance, and product drivers.
+
+Integrated interactive filters and KPI visuals for actionable insights.
+
+Designed for business-ready MIS reporting.
+
+Tech Stack: Power BI
+
+Zomato Restaurant Data Analysis
+
+Analyzed restaurant datasets to identify trends in ratings, pricing, and customer preferences.
+
+Performed data cleaning, EDA, and visualization to extract actionable insights.
+
+Built an interactive demo for practical analytics showcase.
+
+Tech Stack: Python, Pandas, Matplotlib, Seaborn
+Demo: huggingface.co/spaces/rakeshmahakur555/zomato-rating-predictor
+
+Render Time Prediction for CG Pipeline
+
+Analyzed rendering datasets to identify factors affecting processing duration.
+
+Built regression models to predict render time using historical data.
+
+Combined analytics with domain knowledge from 3D production workflows.
+
+Tech Stack: Python, SQL, Machine Learning
+Demo: huggingface.co/spaces/rakeshmahakur555/3d-production-analytics
+
+IMDb Movie Analytics (SQL + Python)
+
+Explored movie datasets to analyze genre trends, ratings, and audience behavior.
+
+Wrote structured SQL queries for filtering, aggregation, and analysis.
+
+Interpreted rating distributions and vote relationships to generate insights.
+
+Outcome: Strengthened data interpretation and analytical reasoning skills.
 
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
 
