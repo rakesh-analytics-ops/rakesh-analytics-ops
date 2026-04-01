@@ -72,8 +72,6 @@ Translated creative requirements into polished final outputs.
 ## • Generative AI Masterclass – Outskill (Oct 2025)
 
 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakesh-analytics-ops&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rakesh-analytics-ops&theme=vue-dark&hide_border=false)<br/>
