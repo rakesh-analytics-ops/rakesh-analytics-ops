@@ -28,12 +28,16 @@ Cleaned, transformed, and analyzed datasets using Python and SQL.
 Automated KPI reporting and improved reporting efficiency.
 Collaborated with stakeholders to gather requirements and deliver actionable insights.
 Performed trend analysis to support business operations and strategic decisions.
+
+
 📈 Data Science Intern
 Codveda Technologies & Future Interns — Bengaluru, India | Jan 2026 – Feb 2026
 Performed EDA, data cleaning, and visualization on real-world datasets.
 Built machine learning models using Python and Scikit-learn.
 Developed interactive applications using Streamlit.
 Collaborated with team members to deliver project outcomes and insights.
+
+
 🎨 3D Production Specialist
 Wipro 3D | Tulfa | SuperDNA Technolab Pvt. Ltd. | Sep 2019 – May 2025
 Delivered production-ready 3D assets for global clients while maintaining high quality standards.
@@ -41,6 +45,9 @@ Improved workflow efficiency and reduced production rework.
 Performed quality checks and process monitoring across multiple projects.
 Worked closely with cross-functional teams to meet project deadlines.
 Developed strong analytical, problem-solving, and stakeholder management skills.
+
+
+
 🎓 Certifications
 
 📌 Tata – GenAI Powered Data Analytics Job Simulation (Forage, Jan 2026)
