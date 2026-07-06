@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am a Data Analyst transitioning from a professional 3D/CG background, with hands-on experience in Python, SQL, Power BI, and Machine Learning.
+I am a Data Analyst transitioning from a professional 3D/CG Production background, with hands-on experience in Python, SQL, Power BI, Tableau, and Machine Learning.
 
-My experience in CG production has given me strong problem-solving skills and an understanding of complex, real-world pipelines, which I now apply to analytics and ML projects.
+My 6 years of experience in production environments have strengthened my problem-solving, quality assurance, and process optimization skills, which I now apply to solving business problems through data.
 
-I enjoy working with real datasets, building dashboards, performing EDA, and deploying analytics solutions as live applications.
+I enjoy working with real-world datasets, building interactive dashboards, performing Exploratory Data Analysis (EDA), and developing data-driven applications that generate actionable insights and support decision-making.
 
 
  <br>
@@ -20,49 +20,28 @@ I enjoy working with real datasets, building dashboards, performing EDA, and dep
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-
-## 💼 Experience
-
-## Data Analyst (Part-time)
-## LabMentix — Bengaluru, India | Nov 2025 – Present
-
-Created Power BI dashboards that helped teams understand performance and make informed decisions.
-
-Cleaned and organized datasets using Python and SQL to ensure reliable analysis.
-
-Supported MIS and ad-hoc reporting to improve reporting efficiency.
-
-Worked with stakeholders to understand requirements and deliver meaningful insights.
-
-Analyzed data trends to support everyday business decisions.
-
-## Data Analysis Intern (Project-Based)
-## Codveda Technologies & Future Interns — Bengaluru, India | Dec 2024 – Jan 2026
-
-Explored real-world datasets to identify useful patterns and insights.
-
-Assisted with data cleaning and preparation for analysis and reporting.
-
-Created simple visual summaries to communicate findings clearly.
-
-Collaborated with team members to support project deliverables.
-
-## Wipro 3D | Tulfa | SuperDNA Technolab Pvt. Ltd.
-3D Production Specialist (Full-time) | Sep 2019 – May 2025
-
+💼 Experience
+📊 Data Analyst Intern
+LabMentix — Bengaluru, India | Jan 2026 – Present
+Developed interactive Power BI dashboards to support business reporting and decision-making.
+Cleaned, transformed, and analyzed datasets using Python and SQL.
+Automated KPI reporting and improved reporting efficiency.
+Collaborated with stakeholders to gather requirements and deliver actionable insights.
+Performed trend analysis to support business operations and strategic decisions.
+📈 Data Science Intern
+Codveda Technologies & Future Interns — Bengaluru, India | Jan 2026 – Feb 2026
+Performed EDA, data cleaning, and visualization on real-world datasets.
+Built machine learning models using Python and Scikit-learn.
+Developed interactive applications using Streamlit.
+Collaborated with team members to deliver project outcomes and insights.
+🎨 3D Production Specialist
+Wipro 3D | Tulfa | SuperDNA Technolab Pvt. Ltd. | Sep 2019 – May 2025
 Delivered production-ready 3D assets for global clients while maintaining high quality standards.
-
-Improved workflow efficiency, helping reduce rework and speed up delivery.
-
-Ensured visual consistency and accuracy across multiple projects.
-
-Worked closely with teams to meet deadlines and client expectations.
-
-Translated creative requirements into polished final outputs.
-
- 
-  
-## 🎓 Certifications
+Improved workflow efficiency and reduced production rework.
+Performed quality checks and process monitoring across multiple projects.
+Worked closely with cross-functional teams to meet project deadlines.
+Developed strong analytical, problem-solving, and stakeholder management skills.
+🎓 Certifications
 
 📌 Tata – GenAI Powered Data Analytics Job Simulation (Forage, Jan 2026)
 
@@ -74,8 +53,18 @@ Translated creative requirements into polished final outputs.
 
 📌 Mentor-Led Internship – Machine Learning Project (Feb 2026)
 
-📌 Generative AI for Data Science – Microsoft (May 2025)
+📌 Generative AI for Data Science – Microsoft & upGrad (May 2025)
 
+🚀 Current Focus
+Advanced SQL & Query Optimization
+Power BI Dashboard Development
+Machine Learning & Predictive Analytics
+End-to-End Data Analytics Projects
+Streamlit Application Development
+Business Intelligence & Reporting
+Data-Driven Decision Making
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://sites.google.com/view/rakesh-mahakur-portfolio/home)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakesh-analytics-ops&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
