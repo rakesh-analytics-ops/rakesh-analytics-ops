@@ -1,84 +1,225 @@
-# 💫 About Me:
-I am a Data Analyst transitioning from a professional 3D/CG Production background, with hands-on experience in Python, SQL, Power BI, Tableau, and Machine Learning.
+<h1 align="center">Hi 👋, I'm Rakesh Mahakur</h1>
 
-My 6 years of experience in production environments have strengthened my problem-solving, quality assurance, and process optimization skills, which I now apply to solving business problems through data.
+<h3 align="center">
+📊 Data Analyst | 📈 Power BI Developer | 🐍 Python Enthusiast | 💡 SQL Explorer
+</h3>
 
-I enjoy working with real-world datasets, building interactive dashboards, performing Exploratory Data Analysis (EDA), and developing data-driven applications that generate actionable insights and support decision-making.
-
-
- <br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rakesh-mahakur-153856171) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshmahakur555@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-💼 Experience
-📊 Data Analyst Intern
-LabMentix — Bengaluru, India | Jan 2026 – Present
-Developed interactive Power BI dashboards to support business reporting and decision-making.
-Cleaned, transformed, and analyzed datasets using Python and SQL.
-Automated KPI reporting and improved reporting efficiency.
-Collaborated with stakeholders to gather requirements and deliver actionable insights.
-Performed trend analysis to support business operations and strategic decisions.
-
-
-📈 Data Science Intern
-Codveda Technologies & Future Interns — Bengaluru, India | Jan 2026 – Feb 2026
-Performed EDA, data cleaning, and visualization on real-world datasets.
-Built machine learning models using Python and Scikit-learn.
-Developed interactive applications using Streamlit.
-Collaborated with team members to deliver project outcomes and insights.
-
-
-🎨 3D Production Specialist
-Wipro 3D | Tulfa | SuperDNA Technolab Pvt. Ltd. | Sep 2019 – May 2025
-Delivered production-ready 3D assets for global clients while maintaining high quality standards.
-Improved workflow efficiency and reduced production rework.
-Performed quality checks and process monitoring across multiple projects.
-Worked closely with cross-functional teams to meet project deadlines.
-Developed strong analytical, problem-solving, and stakeholder management skills.
-
-
-
-🎓 Certifications
-
-📌 Tata – GenAI Powered Data Analytics Job Simulation (Forage, Jan 2026)
-
-📌 Deloitte Australia – Data Analytics Job Simulation (Forage, Dec 2025)
-
-📌 Data Science & AI Trainee – PwC Academy (upGrad, Jun 2025 – Apr 2026)
-
-📌 Data Science Internship – Codveda Technologies (Jan 2026)
-
-📌 Mentor-Led Internship – Machine Learning Project (Feb 2026)
-
-📌 Generative AI for Data Science – Microsoft & upGrad (May 2025)
-
-🚀 Current Focus
-Advanced SQL & Query Optimization
-Power BI Dashboard Development
-Machine Learning & Predictive Analytics
-End-to-End Data Analytics Projects
-Streamlit Application Development
-Business Intelligence & Reporting
-Data-Driven Decision Making
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://sites.google.com/view/rakesh-mahakur-portfolio/home)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rakesh-analytics-ops&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rakesh-analytics-ops&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-analytics-ops&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Machine+Learning+Enthusiast;Building+Data-Driven+Solutions" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rakesh-analytics-ops&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🔹 Data Analyst Intern @ LabMentix
+
+🔹 Former 3D Production Specialist with 5+ years of industry experience
+
+🔹 Passionate about solving business problems using Data
+
+🔹 Currently building end-to-end Data Analytics projects
+
+🔹 Learning Advanced SQL, Machine Learning & Data Engineering
+
+🔹 Goal: Become a Business Intelligence / Data Analyst at a Product Company
+
+---
+
+## 💼 Experience
+
+### 📊 Data Analyst Intern
+**LabMentix**
+*Jan 2026 – Present*
+
+✔ Developed interactive Power BI Dashboards
+
+✔ Automated KPI Reporting
+
+✔ SQL Data Analysis
+
+✔ Python Data Cleaning
+
+✔ Business Reporting
+
+✔ Trend Analysis
+
+---
+
+### 📈 Data Science Intern
+**Codveda Technologies & Future Interns**
+
+✔ Exploratory Data Analysis
+
+✔ Machine Learning
+
+✔ Streamlit Applications
+
+✔ Data Visualization
+
+✔ Model Building
+
+---
+
+### 🎨 Former 3D Production Specialist
+
+Worked with
+
+⭐ Wipro 3D
+
+⭐ Tulfa
+
+⭐ SuperDNA
+
+Worked on
+
+• Production Analytics
+
+• Workflow Optimization
+
+• Quality Monitoring
+
+• Cross-functional Collaboration
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### Data Analytics
+
+Power BI
+
+Excel
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Streamlit
+
+Jupyter
+
+Git
+
+GitHub
+
+---
+
+# 📂 Featured Projects
+
+### 📈 Blinkit Sales Dashboard
+
+Power BI Dashboard
+
+SQL
+
+DAX
+
+Power Query
+
+---
+
+### 📊 PhonePe Data Analysis
+
+Python
+
+SQL Server
+
+Streamlit
+
+ETL Pipeline
+
+---
+
+### 🎬 VFX Production Analytics
+
+Power BI
+
+KPI Dashboard
+
+Artist Productivity
+
+Render Analytics
+
+---
+
+### 🤖 Customer Segmentation
+
+Python
+
+Machine Learning
+
+K-Means
+
+RFM Analysis
+
+---
+
+# 📜 Certifications
+
+🏅 Tata GenAI Powered Data Analytics
+
+🏅 Deloitte Data Analytics
+
+🏅 PwC Academy
+
+🏅 Microsoft Generative AI
+
+🏅 Codveda Internship
+
+🏅 Machine Learning Internship
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=rakesh-analytics-ops&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rakesh-analytics-ops&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-analytics-ops&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=rakesh-analytics-ops&theme=algolia&column=4)
+
+---
+
+## 📊 Visitor Count
+
+![](https://komarev.com/ghpvc/?username=rakesh-analytics-ops&color=blue)
+
+---
+
+## 🤝 Connect With Me
+
+Portfolio
+
+https://sites.google.com/view/rakesh-mahakur-portfolio/home
+
+LinkedIn
+
+(Add your LinkedIn)
+
+Email
+
+(Add your Email)
+
+---
+
+### 💡 Quote
+
+> "Turning raw data into meaningful business decisions."
+
