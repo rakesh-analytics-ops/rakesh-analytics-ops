@@ -1,225 +1,144 @@
-<h1 align="center">Hi 👋, I'm Rakesh Mahakur</h1>
+<div align="center">
 
-<h3 align="center">
-📊 Data Analyst | 📈 Power BI Developer | 🐍 Python Enthusiast | 💡 SQL Explorer
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rakesh Mahakur
+
+### 📊 Data Analyst • 📈 Power BI Developer • 🐍 Python Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&color=00D9FF&lines=Turning+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Python;Machine+Learning+Explorer;Always+Learning+Something+New..." />
+
+<img src="https://komarev.com/ghpvc/?username=rakesh-analytics-ops&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+✨ Data Analyst Intern @ **LabMentix**
+
+📈 Building **Power BI Dashboards**
+
+🐍 Working with **Python, SQL & Machine Learning**
+
+🎯 Passionate about solving real business problems through data
+
+🌱 Currently learning
+
+- Advanced SQL
+- Data Engineering
+- Predictive Analytics
+- Streamlit
+
+⚡ Fun Fact
+
+> I spent 5+ years creating 3D assets...
+> Now I create dashboards that tell stories with data.
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Machine+Learning+Enthusiast;Building+Data-Driven+Solutions" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
 </p>
 
----
+<p align="center">
 
-# 💫 About Me
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-🔹 Data Analyst Intern @ LabMentix
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
-🔹 Former 3D Production Specialist with 5+ years of industry experience
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-🔹 Passionate about solving business problems using Data
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-🔹 Currently building end-to-end Data Analytics projects
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-🔹 Learning Advanced SQL, Machine Learning & Data Engineering
-
-🔹 Goal: Become a Business Intelligence / Data Analyst at a Product Company
-
----
-
-## 💼 Experience
-
-### 📊 Data Analyst Intern
-**LabMentix**
-*Jan 2026 – Present*
-
-✔ Developed interactive Power BI Dashboards
-
-✔ Automated KPI Reporting
-
-✔ SQL Data Analysis
-
-✔ Python Data Cleaning
-
-✔ Business Reporting
-
-✔ Trend Analysis
-
----
-
-### 📈 Data Science Intern
-**Codveda Technologies & Future Interns**
-
-✔ Exploratory Data Analysis
-
-✔ Machine Learning
-
-✔ Streamlit Applications
-
-✔ Data Visualization
-
-✔ Model Building
-
----
-
-### 🎨 Former 3D Production Specialist
-
-Worked with
-
-⭐ Wipro 3D
-
-⭐ Tulfa
-
-⭐ SuperDNA
-
-Worked on
-
-• Production Analytics
-
-• Workflow Optimization
-
-• Quality Monitoring
-
-• Cross-functional Collaboration
-
----
-
-# 🚀 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### Data Analytics
-
-Power BI
-
-Excel
-
-Pandas
-
-NumPy
-
-Scikit-learn
-
-Streamlit
-
-Jupyter
-
-Git
-
-GitHub
+</p>
 
 ---
 
 # 📂 Featured Projects
 
-### 📈 Blinkit Sales Dashboard
+### 📊 Blinkit Sales Dashboard
 
-Power BI Dashboard
-
-SQL
-
-DAX
-
-Power Query
+Power BI • SQL • DAX • KPI Dashboard
 
 ---
 
-### 📊 PhonePe Data Analysis
+### 💳 PhonePe Analytics
 
-Python
-
-SQL Server
-
-Streamlit
-
-ETL Pipeline
+Python • SQL Server • ETL • Streamlit
 
 ---
 
 ### 🎬 VFX Production Analytics
 
-Power BI
-
-KPI Dashboard
-
-Artist Productivity
-
-Render Analytics
+Power BI • Productivity Dashboard
 
 ---
 
 ### 🤖 Customer Segmentation
 
-Python
-
-Machine Learning
-
-K-Means
-
-RFM Analysis
+Python • Machine Learning • K-Means
 
 ---
 
-# 📜 Certifications
+# 📈 GitHub Analytics
 
-🏅 Tata GenAI Powered Data Analytics
+<p align="center">
 
-🏅 Deloitte Data Analytics
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rakesh-analytics-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🏅 PwC Academy
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh-analytics-ops&theme=tokyonight&hide_border=true"/>
 
-🏅 Microsoft Generative AI
+</p>
 
-🏅 Codveda Internship
+<p align="center">
 
-🏅 Machine Learning Internship
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-analytics-ops&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=rakesh-analytics-ops&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rakesh-analytics-ops&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-analytics-ops&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-## 🏆 GitHub Trophy
+# 🏆 GitHub Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=rakesh-analytics-ops&theme=algolia&column=4)
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=rakesh-analytics-ops&theme=tokyonight&no-frame=true&margin-w=15"/>
 
-## 📊 Visitor Count
-
-![](https://komarev.com/ghpvc/?username=rakesh-analytics-ops&color=blue)
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect with Me
 
-Portfolio
+<p align="center">
 
-https://sites.google.com/view/rakesh-mahakur-portfolio/home
+<a href="https://sites.google.com/view/rakesh-mahakur-portfolio/home">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
-LinkedIn
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-(Add your LinkedIn)
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-Email
-
-(Add your Email)
+</p>
 
 ---
 
-### 💡 Quote
+<div align="center">
 
-> "Turning raw data into meaningful business decisions."
+### 💙 *"Transforming Data into Decisions."*
+
+</div>
 
